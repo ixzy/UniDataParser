@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Search Records</title>
+    <title>search - dataleak.us beta search parser</title>
 </head>
 <body>
     <form action="" method="POST">
