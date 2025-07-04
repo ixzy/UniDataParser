@@ -40,9 +40,6 @@ UniDataParser is a versatile log parsing tool designed to search and extract inf
 
 Feel free to contribute, report issues, or suggest improvements! Check out the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
